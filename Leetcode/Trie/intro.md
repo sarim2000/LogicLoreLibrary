@@ -11,12 +11,12 @@ A trie is a tree like data structure and this is used to store a word dynamicall
         o --> p[P]
         o --> a[A]
         a --> p1[P]
-        style root fill:#f9d,stroke:#333,stroke-width:2px;
-        style t fill:#9df,stroke:#333,stroke-width:2px;
-        style o fill:#9df,stroke:#333,stroke-width:2px;
-        style p fill:#9df,stroke:#333,stroke-width:2px;
-        style a fill:#9df,stroke:#333,stroke-width:2px;
-        style p1 fill:#9df,stroke:#333,stroke-width:2px;
+        style root fill:#fff,stroke:#000,stroke-width:2px;
+        style t fill:#fff,stroke:#000,stroke-width:2px;
+        style o fill:#fff,stroke:#000,stroke-width:2px;
+        style p fill:#fff,stroke:#000,stroke-width:2px;
+        style a fill:#fff,stroke:#000,stroke-width:2px;
+        style p1 fill:#fff,stroke:#000,stroke-width:2px;
 ```
 
 > the above graph shows a trie data structure consisting of
