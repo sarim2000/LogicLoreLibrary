@@ -1,1 +1,1 @@
-## hope to create this repo a "lore of knowledge" here. :)
+## hope to make this repo a "lore of knowledge" here. :)
